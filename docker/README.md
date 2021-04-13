@@ -54,8 +54,3 @@ Images, containers, volumes, or customized configuration files on your host are 
 sudo rm -rf /var/lib/docker
 sudo rm -rf /var/lib/containerd
 ```
-<<<<<<< HEAD
-You must delete any edited configuration files manually.
-=======
-You must delete any edited configuration files manually.
->>>>>>> 7848e723296c744125206cb06059b060fad78c95
